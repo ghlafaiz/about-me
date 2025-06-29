@@ -272,10 +272,10 @@ span {
 }
 @keyframes words {
   0%, 20% {
-    content:  "web Developer";
+    content:  "ًWeb Developer";
 
   }
-  21% , 40%{content: " back end devloper";
+  21% , 40%{content: "  Front-End Developer";
 
 }
 
